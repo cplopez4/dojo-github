@@ -1,3 +1,3 @@
-def test2
+def test-feature1
   puts "Coding Dojo Github!"
 end
